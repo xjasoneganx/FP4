@@ -5,7 +5,7 @@
 	<meta name="description" content="Agile Release Train">
 	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
 	<meta name="author" content="Aaron Kaase">
-	<link rel="stylesheet" type="text/css" href="css/pitable.css">
+	<link rel="stylesheet" type="text/css" href="css/piplanning_status.css">
 	<title>Program Increment (PI) Summary Table</title>
 </head>
 <body>
